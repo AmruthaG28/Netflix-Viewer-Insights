@@ -9,9 +9,11 @@ This project aims to provide personalized movie and TV show recommendations to N
 - Identify commonalities between the two users' preferences and provide shared recommendations for movies, TV shows, and genres.
 
 ## Datasets
-The project utilizes the following datasets from Kaggle and webscraped data from a user's Netflix watch activity:
-https://www.kaggle.com/datasets?fileType=csv
-https://www.netflix.com/viewingactivity
+The project utilizes the following datasets from Kaggle and web-scraped data from a user's Netflix watch activity:
+1. Netflix Titles
+2. Netflix Viewing History - User 1 (Blue User)
+3. Netflix Viewing History - User 2 (Red User)
+4. IMDb movie dataset
 
 ## Approach
 - Perform data exploration and preprocessing on the datasets.
